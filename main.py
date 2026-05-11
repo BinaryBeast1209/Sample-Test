@@ -32,3 +32,4 @@ def role_based():
     print(f"Initial : {res}")
 reinforce()
 role_based()
+
